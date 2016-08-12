@@ -7,7 +7,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Flew &mdash; Free HTML5 Bootstrap Website Template by FreeHTML5.co</title>
+	<title>Google-MIT-Abhijit</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Google Summer of Code 2016" />
 	<meta name="keywords" content="GSOC, MIT Media Lab" />
@@ -58,7 +58,7 @@
 	<header id="fh5co-header" role="banner">
 		<div class="container">
 			<div class="header-inner">
-				<h1><a href="index.html">Flew</a></h1>
+				<h1><a href="index.html">Google-MIT-Abhijit</a></h1>
 				<nav role="navigation">
 					<ul>
 						<li><a href="work.html">GSOC</a></li>
@@ -297,7 +297,7 @@
 			<div class="col-md-3 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
 				<h3>Known Issues</h3>
 				<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-				<p><a href="#" class="btn btn-primary btn-outline with-arrow btn-sm">Join Us <i class="icon-arrow-right"></i></a></p>
+				<p><a href="#" class="btn btn-primary btn-outline with-arrow btn-sm">Report <i class="icon-arrow-right"></i></a></p>
 			</div>
 			<div class="col-md-6 col-md-push-1 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
 				<h3>Future Work</h3>
