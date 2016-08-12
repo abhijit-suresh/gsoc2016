@@ -85,7 +85,7 @@
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner">
 		   					<h2>Google Summer of Code 2016</h2>
-		   					<p><a href="#" class="btn btn-primary btn-lg">Learn More</a></p>
+		   					<p><a href="https://summerofcode.withgoogle.com" class="btn btn-primary btn-lg">Learn More</a></p>
 		   				</div>
 		   			</div>
 		   		</div>
@@ -94,8 +94,8 @@
 		   		<div class="container">
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner">
-		   					<h2>MIT App Inventor</h2>
-		   					<p><a href="#" class="btn btn-primary btn-lg">Learn More</a></p>
+		   					<h2>MIT Media Lab</h2>
+		   					<p><a href="https://www.media.mit.edu" class="btn btn-primary btn-lg">Learn More</a></p>
 		   				</div>
 		   			</div>
 		   		</div>
