@@ -184,7 +184,7 @@
 			<div class="row">
 				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading animate-box">
 					<h2>My Project</h2>
-					<p>Block Search</p>
+					<p>Searching Blocks in Blocks Editor</p>
 				</div>
 			</div>
 			<div class="row">
@@ -193,9 +193,7 @@
 						<div class="owl-carousel-fullwidth">
 							<div class="item">
 								<div class="testimony-slide active text-center">
-									<figure>
-										<img src="images/person1.jpg" alt="user">
-									</figure>
+									<img src="images/person1.jpg" alt="user">
 									<blockquote>
 										<p>Search Blocks enable users to search for specific blocks in the workspace. The X Button helps to clear the search. Advanced Search Filter help seach for keywords among certain types of blocks or even comments.</p>
 									</blockquote>
@@ -203,24 +201,18 @@
 							</div>
 							<div class="item">
 								<div class="testimony-slide active text-center">
-									<figure>
-										<img src="images/person2.jpg" alt="user">
-									</figure>
+									<img src="images/person2.jpg" alt="user">
 									<blockquote>
-										<p>"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."</p>
+										<p>The work was inspired from a prototype made by Cece Tsui and Prof. Franklyn A. Turbak from Wellesley College. My warm up project during the community bonding period was to rebase cece's code to the latest version of App Inventor.</p>
 									</blockquote>
-									<span>Nathalie Kosley, via <a href="#" class="twitter">Twitter</a></span>
 								</div>
 							</div>
 							<div class="item">
 								<div class="testimony-slide active text-center">
-									<figure>
-										<img src="images/person3.jpg" alt="user">
-									</figure>
+									<img src="images/person3.jpg" alt="user">
 									<blockquote>
-										<p>"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."</p>
+										<p>The project was mentored by Benjamin Xie. He was a grad student at MIT and a great guy. We had weekly meetings to review the progress and he guided me to makse sure that I satisfy the requirements and stick to my schedule.</p>
 									</blockquote>
-									<span>Yanna Kuzuki, via <a href="#" class="twitter">Twitter</a></span>
 								</div>
 							</div>
 						</div>
