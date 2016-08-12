@@ -127,7 +127,7 @@
 						<i class="icon-laptop"></i>
 						<div class="desc">
 							<h3>Which Organization?</h3>
-							<p>I was working for MIT Media Lab on MIT App Inventor.MIT App Inventor is an innovative beginner's introduction to programming and app creation that transforms the complex language of text-based coding into visual, drag-and-drop building blocks.</p>
+							<p>I was working for MIT Media Lab on MIT App Inventor.MIT App Inventor is an innovative beginner's introduction to programming and app creation.</p>
 						</div>
 					</div>
 				</div>
@@ -197,9 +197,8 @@
 										<img src="images/person1.jpg" alt="user">
 									</figure>
 									<blockquote>
-										<p>"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."</p>
+										<p>Search Blocks enable users to search for specific blocks in the workspace. The X Button helps to clear the search. Advanced Search Filter help seach for keywords among certain types of blocks or even comments.</p>
 									</blockquote>
-									<span>Athan Smith, via <a href="#" class="twitter">Twitter</a></span>
 								</div>
 							</div>
 							<div class="item">
