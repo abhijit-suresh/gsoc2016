@@ -9,23 +9,9 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Flew &mdash; Free HTML5 Bootstrap Website Template by FreeHTML5.co</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Free HTML5 Website Template by FreeHTML5.co" />
-	<meta name="keywords" content="free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
-	<meta name="author" content="FreeHTML5.co" />
-
-  <!-- 
-	//////////////////////////////////////////////////////
-
-	FREE HTML5 TEMPLATE 
-	DESIGNED & DEVELOPED by FreeHTML5.co
-		
-	Website: 		http://freehtml5.co/
-	Email: 			info@freehtml5.co
-	Twitter: 		http://twitter.com/fh5co
-	Facebook: 		https://www.facebook.com/fh5co
-
-	//////////////////////////////////////////////////////
-	 -->
+	<meta name="description" content="Google Summer of Code 2016" />
+	<meta name="keywords" content="GSOC, MIT Media Lab" />
+	<meta name="author" content="Abhijit Suresh" />
 
   	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
@@ -75,12 +61,12 @@
 				<h1><a href="index.html">Flew</a></h1>
 				<nav role="navigation">
 					<ul>
-						<li><a href="work.html">Work</a></li>
-						<li><a href="services.html">Services</a></li>
-						<li><a href="pricing.html">Pricing</a></li>
+						<li><a href="work.html">GSOC</a></li>
+						<li><a href="services.html"></a></li>
+						<li><a href="pricing.html">Work</a></li>
 						<li><a href="about.html">About</a></li>
 						<li><a href="contact.html">Contact</a></li>
-						<li class="cta"><a href="#">Get started</a></li>
+						<li class="cta"><a href="pricing.html">Go to Project</a></li>
 					</ul>
 				</nav>
 			</div>
@@ -98,8 +84,8 @@
 		   		<div class="container">
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner">
-		   					<h2>Start Your Startup With This Template</h2>
-		   					<p><a href="#" class="btn btn-primary btn-lg">Get started</a></p>
+		   					<h2>Google Summer of Code 2016</h2>
+		   					<p><a href="#" class="btn btn-primary btn-lg">Learn More</a></p>
 		   				</div>
 		   			</div>
 		   		</div>
@@ -108,8 +94,8 @@
 		   		<div class="container">
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner">
-		   					<h2>Take Your Business To The Next Level</h2>
-		   					<p><a href="#" class="btn btn-primary btn-lg">Get started</a></p>
+		   					<h2>MIT App Inventor</h2>
+		   					<p><a href="#" class="btn btn-primary btn-lg">Learn More</a></p>
 		   				</div>
 		   			</div>
 		   		</div>
@@ -118,8 +104,8 @@
 		   		<div class="container">
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner">
-		   					<h2>We Think Different That Others Can't</h2>
-		   					<p><a href="#" class="btn btn-primary btn-lg">Get started</a></p>
+		   					<h2>Thats's me</h2>
+		   					<p><a href="contact.html" class="btn btn-primary btn-lg">Contact me</a></p>
 		   				</div>
 		   			</div>
 		   		</div>
@@ -462,7 +448,7 @@
 			
 			
 			<div class="col-md-12 fh5co-copyright text-center">
-				<p>&copy; 2016 Free HTML5 template. All Rights Reserved. <span>Designed with <i class="icon-heart"></i> by <a href="http://freehtml5.co/" target="_blank">FreeHTML5.co</a> Demo Images by <a href="http://unsplash.com/" target="_blank">Unsplash</a></span></p>	
+				<p>&copy; 2016 Abhijit. All Rights Reserved. <span>Designed with <i class="icon-heart"></i> by <a href="http://freehtml5.co/" target="_blank">FreeHTML5.co</a> Demo Images by <a href="http://unsplash.com/" target="_blank">Unsplash</a></span></p>	
 			</div>
 			
 		</div>
