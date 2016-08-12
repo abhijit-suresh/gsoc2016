@@ -118,7 +118,7 @@
 			<div class="row">
 				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading animate-box">
 					<h2>Google Summer of Code 2016</h2>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+					<p>Google Summer of Code or GSOC is an international program in which students work  on a free and open-source project during the summer.</p>
 				</div>
 			</div>
 			<div class="row">
@@ -126,8 +126,8 @@
 					<div class="services">
 						<i class="icon-laptop"></i>
 						<div class="desc">
-							<h3>Dashboard</h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.</p>
+							<h3>Which Organization?</h3>
+							<p>I was working for MIT Media Lab on MIT App Inventor.MIT App Inventor is an innovative beginner's introduction to programming and app creation that transforms the complex language of text-based coding into visual, drag-and-drop building blocks.</p>
 						</div>
 					</div>
 				</div>
@@ -135,8 +135,8 @@
 					<div class="services">
 						<i class="icon-server"></i>
 						<div class="desc">
-							<h3>Administration</h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.</p>
+							<h3>What Project?</h3>
+							<p>I was working on Searching Blocks in the Blocks editor. Search feature was very much in demand and enabled users to search specific blocks in the workspace.</p>
 						</div>
 					</div>
 				</div>
@@ -144,8 +144,8 @@
 					<div class="services">
 						<i class="icon-money"></i>
 						<div class="desc">
-							<h3>Make Money</h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.</p>
+							<h3>How was the experience?</h3>
+							<p>It was very exciting and challenging. The most challenging part was understanding how the codebase works (It was a blackbox). Coding was easy and fun to play around. </p>
 						</div>
 					</div>
 				</div>
@@ -153,8 +153,8 @@
 					<div class="services">
 						<i class="icon-tablet"></i>
 						<div class="desc">
-							<h3>SEO Monitoring</h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.</p>
+							<h3>What are the takeaways?</h3>
+							<p>There was multiple takeaways. I enjoyed learning about coding standards and documentation. Initially, I desgined the UI such that it was very intuitive but my mentor taught me a thing or two about usability and user centered design. </p>
 						</div>
 					</div>
 				</div>
@@ -162,8 +162,8 @@
 					<div class="services">
 						<i class="icon-line-chart"></i>
 						<div class="desc">
-							<h3>Online Marketing</h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.</p>
+							<h3>What are your next steps?</h3>
+							<p>My next steps would be to continue working on search and make further improvements and bug fixes over time. If I get a chance, i would definitely apply for the GSOC Program again.</p>
 						</div>
 					</div>
 				</div>
@@ -171,8 +171,8 @@
 					<div class="services">
 						<i class="icon-pie-chart"></i>
 						<div class="desc">
-							<h3>Business Analytics</h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.</p>
+							<h3>How was your coding experience?</h3>
+							<p>I used Java GWT, Javascript and CSS. I also included a few functions in Google Blockly core (which was Javascript and CSS). I also had a chance to use JSNI Bridge (to map between Javascript and Java which was so cool).</p>
 						</div>
 					</div>
 				</div>
@@ -184,7 +184,7 @@
 			<div class="row">
 				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading animate-box">
 					<h2>My Project</h2>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+					<p>Block Search</p>
 				</div>
 			</div>
 			<div class="row">
