@@ -94,7 +94,7 @@
 		   		<div class="container">
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner">
-		   					<h2>MIT Media Lab</h2>
+		   					<h2 style="color:black;">MIT App Inventor</h2>
 		   					<p><a href="https://www.media.mit.edu" class="btn btn-primary btn-lg">Learn More</a></p>
 		   				</div>
 		   			</div>
@@ -117,7 +117,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading animate-box">
-					<h2>Our Awesome Features</h2>
+					<h2>Google Summer of Code 2016</h2>
 					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
 				</div>
 			</div>
@@ -179,92 +179,11 @@
 			</div>
 		</div>
 	</div>
-	<div id="fh5co-work-section" class="fh5co-light-grey-section">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading animate-box">
-					<h2>Latest Projects</h2>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-4 animate-box">
-					<a href="#" class="item-grid text-center">
-						<div class="image" style="background-image: url(images/image_1.jpg)"></div>
-						<div class="v-align">
-							<div class="v-align-middle">
-								<h3 class="title">Geographical App</h3>
-								<h5 class="category">Web Application</h5>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 animate-box">
-					<a href="#" class="item-grid text-center">
-						<div class="image" style="background-image: url(images/image_2.jpg)"></div>
-						<div class="v-align">
-							<div class="v-align-middle">
-								<h3 class="title">Geographical App</h3>
-								<h5 class="category">User Interface</h5>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 animate-box">
-					<a href="#" class="item-grid text-center">
-						<div class="image" style="background-image: url(images/image_3.jpg)"></div>
-						<div class="v-align">
-							<div class="v-align-middle">
-								<h3 class="title">Geographical App</h3>
-								<h5 class="category">Branded</h5>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 animate-box">
-					<a href="#" class="item-grid text-center">
-						<div class="image" style="background-image: url(images/image_4.jpg)"></div>
-						<div class="v-align">
-							<div class="v-align-middle">
-								<h3 class="title">Geographical App</h3>
-								<h5 class="category">Web</h5>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 animate-box">
-					<a href="#" class="item-grid text-center">
-						<div class="image" style="background-image: url(images/image_5.jpg)"></div>
-						<div class="v-align">
-							<div class="v-align-middle">
-								<h3 class="title">Geographical App</h3>
-								<h5 class="category">Illustration</h5>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 animate-box">
-					<a href="#" class="item-grid text-center">
-						<div class="image" style="background-image: url(images/image_6.jpg)"></div>
-						<div class="v-align">
-							<div class="v-align-middle">
-								<h3 class="title">Geographical App</h3>
-								<h5 class="category">Web Application</h5>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-12 text-center animate-box">
-					<p><a href="#" class="btn btn-primary with-arrow">View More Projects <i class="icon-arrow-right"></i></a></p>
-				</div>
-			</div>
-		</div>
-	</div>
 	<div id="fh5co-testimony-section">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading animate-box">
-					<h2>Clients Feedback</h2>
+					<h2>My Project</h2>
 					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
 				</div>
 			</div>
@@ -311,50 +230,11 @@
 			</div>
 		</div>
 	</div>
-	<div id="fh5co-blog-section" class="fh5co-light-grey-section">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading animate-box">
-					<h2>Recent from Blog</h2>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-6 col-sm-6 animate-box">
-					<a href="#" class="item-grid">
-						<div class="image" style="background-image: url(images/image_1.jpg)"></div>
-						<div class="v-align">
-							<div class="v-align-middle">
-								<h3 class="title">We Create Mobile App</h3>
-								<h5 class="date"><span>June 23, 2016</span> | <span>4 Comments</span></h5>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.</p>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-6 col-sm-6 animate-box">
-					<a href="#" class="item-grid">
-						<div class="image" style="background-image: url(images/image_2.jpg)"></div>
-						<div class="v-align">
-							<div class="v-align-middle">
-								<h3 class="title">Geographical App</h3>
-								<h5 class="date"><span>June 22, 2016</span> | <span>10 Comments</span></h5>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.</p>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-12 text-center animate-box">
-					<p><a href="#" class="btn btn-primary with-arrow">View More Post <i class="icon-arrow-right"></i></a></p>
-				</div>
-			</div>
-		</div>
-	</div>
 	<div id="fh5co-pricing-section">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading animate-box">
-					<h2>Pricing</h2>
+					<h2>Links</h2>
 					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
 				</div>
 			</div>
@@ -404,8 +284,8 @@
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="col-md-12 text-center animate-box">
-				<h3>We Try To Update The Site Everyday</h3>
-				<p><a href="#" class="btn btn-primary btn-outline with-arrow">Get started now! <i class="icon-arrow-right"></i></a></p>
+				<h3>We Welcome any suggestion</h3>
+				<p><a href="mailto:abhijit5893@gmail.com" class="btn btn-primary btn-outline with-arrow">Suggest!!<i class="icon-arrow-right"></i></a></p>
 			</div>
 		</div>
 	</div>
