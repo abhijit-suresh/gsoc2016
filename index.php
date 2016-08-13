@@ -193,7 +193,7 @@
 						<div class="owl-carousel-fullwidth">
 							<div class="item">
 								<div class="testimony-slide active text-center">
-									<img src="images/person1.jpg" alt="user">
+									<img src="images/person1.jpg" alt="user" style=" height: 100px; width: 300px;">
 									<blockquote>
 										<p>Search Blocks enable users to search for specific blocks in the workspace. The X Button helps to clear the search. Advanced Search Filter help seach for keywords among certain types of blocks or even comments.</p>
 									</blockquote>
@@ -201,7 +201,7 @@
 							</div>
 							<div class="item">
 								<div class="testimony-slide active text-center">
-									<img src="images/person2.jpg" alt="user">
+									<img src="images/person2.jpg" alt="user" style=" height: 200px; width: 200px;">
 									<blockquote>
 										<p>The work was inspired from a prototype made by Cece Tsui and Prof. Franklyn A. Turbak from Wellesley College. My warm up project during the community bonding period was to rebase cece's code to the latest version of App Inventor.</p>
 									</blockquote>
@@ -209,7 +209,7 @@
 							</div>
 							<div class="item">
 								<div class="testimony-slide active text-center">
-									<img src="images/person3.jpg" alt="user">
+									<img src="images/person3.jpg" alt="user" style=" height: 200px; width: 200px;">
 									<blockquote>
 										<p>The project was mentored by Benjamin Xie. He was a grad student at MIT and a great guy. We had weekly meetings to review the progress and he guided me to makse sure that I satisfy the requirements and stick to my schedule.</p>
 									</blockquote>
@@ -226,44 +226,40 @@
 			<div class="row">
 				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading animate-box">
 					<h2>Links</h2>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+					<p>All the materials and where to find them.</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="pricing">
 					<div class="col-md-3 animate-box">
 						<div class="price-box">
-							<h2 class="pricing-plan">Starter</h2>
-							<div class="price"><sup class="currency">$</sup>9<small>/month</small></div>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-							<a href="#" class="btn btn-select-plan btn-sm">Select Plan</a>
+							<h2 class="pricing-plan">Github</h2>
+							<p>This is the link to my Github Fork. I have created a Pull request and is still under review. Since I had to update my fork after a recent revision changes, there are actually fewer commits (Merged all my commits into Single Commit).</p>
+							<a href="https://github.com/abhijit5893/appinventor-sources" class="btn btn-select-plan btn-sm">Check it Out!</a>
 						</div>
 					</div>
 
 					<div class="col-md-3 animate-box">
 						<div class="price-box">
-							<h2 class="pricing-plan">Basic</h2>
-							<div class="price"><sup class="currency">$</sup>27<small>/month</small></div>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-							<a href="#" class="btn btn-select-plan btn-sm">Select Plan</a>
+							<h2 class="pricing-plan">Journal</h2>
+							<p>This is my personal weekly Journal for the summer project. The entries encompassesthe following: What stage I was in? What Blockers and What are the next steps?</p>
+							<a href="https://docs.google.com/document/d/1Dv4l5sv7U1poz3hFK-TIFZQ5rkVHB369V03cr4TW6BY/edit" class="btn btn-select-plan btn-sm">Check it Out!</a>
 						</div>
 					</div>
 
 					<div class="col-md-3 animate-box">
 						<div class="price-box popular">
-							<h2 class="pricing-plan pricing-plan-offer">Pro <span>Best Offer</span></h2>
-							<div class="price"><sup class="currency">$</sup>74<small>/month</small></div>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-							<a href="#" class="btn btn-select-plan btn-sm">Select Plan</a>
+							<h2 class="pricing-plan pricing-plan-offer"><span>Appspot</span></h2>
+							<p>This is the link to the appspot where I hosted my code. If you want to check out how search feature works, you can try this link.</p>
+							<a href="http://abhijit-ai.appspot.com" class="btn btn-select-plan btn-sm">Check it Out!</a>
 						</div>
 					</div>
 
 					<div class="col-md-3 animate-box">
 						<div class="price-box">
-							<h2 class="pricing-plan">Unlimited</h2>
-							<div class="price"><sup class="currency">$</sup>140<small>/month</small></div>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-							<a href="#" class="btn btn-select-plan btn-sm">Select Plan</a>
+							<h2 class="pricing-plan">Proposal</h2>
+							<p> This is the link to the proposal which have information reagrding the features proposed and timeline.</p>
+							<a href="https://docs.google.com/document/d/1aVFejI7B29xmWRFgpSHT4j7TCSrIEBe3PG5HKK__5Qg/edit" class="btn btn-select-plan btn-sm">Check it Out!</a>
 						</div>
 					</div>
 				</div>
@@ -275,8 +271,9 @@
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="col-md-12 text-center animate-box">
-				<h3>We Welcome any suggestion</h3>
-				<p><a href="mailto:abhijit5893@gmail.com" class="btn btn-primary btn-outline with-arrow">Suggest!!<i class="icon-arrow-right"></i></a></p>
+				<h3>Acknowledgements</h3>
+				<p>This summer project would not have been possible without your assistance -- Benjamin Xie (Mentor), Andrew, Hal, Jeff, Lyn, Cece, Jose and Aubrey. I also thank the MIT App Inventor developer and user community for reaching out in time of need. I also thank and congratulate other GSOC students. Last, but not the least, I thank Google for giving me this opportunity.</p>
+				<p><a href="mailto:abhijit5893@gmail.com" class="btn btn-primary btn-outline with-arrow">If you have any suggestions or comments!<i class="icon-arrow-right"></i></a></p>
 			</div>
 		</div>
 	</div>
@@ -287,23 +284,22 @@
 		<div class="container">
 			<div class="col-md-3 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
 				<h3>Known Issues</h3>
-				<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-				<p><a href="#" class="btn btn-primary btn-outline with-arrow btn-sm">Report <i class="icon-arrow-right"></i></a></p>
+				<ul class="float">
+					<li>When the block is Collapsed, Outer block remains highlighted even when inner block is the only block that matches the search.</li>
+					<li>Blocks remain highlighted when backspace or escape is pressed (Rare Occurence and unable to reproduce)</li>
+					<li>Some of the filter entries are confusing for the users to understand.</li>
+				</ul>
+				<p><a href="mailto:abhijit5893@gmail.com" class="btn btn-primary btn-outline with-arrow btn-sm">Report <i class="icon-arrow-right"></i></a></p>
 			</div>
 			<div class="col-md-6 col-md-push-1 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
 				<h3>Future Work</h3>
 				<ul class="float">
-					<li><a href="#">Web Design</a></li>
-					<li><a href="#">Branding &amp; Identity</a></li>
-					<li><a href="#">Free HTML5</a></li>
-					<li><a href="#">HandCrafted Templates</a></li>
+					<li>Instead of greying out blocks, we could try making blocks more transparent</li>
+					<li>Make the filter options more user understandable</li>
+					<li>Improve the user experience when navigating among the search results</li>
+					<li>Add more custom filters</li>
 				</ul>
-				<ul class="float">
-					<li><a href="#">Free Bootstrap Template</a></li>
-					<li><a href="#">Free HTML5 Template</a></li>
-					<li><a href="#">Free HTML5 &amp; CSS3 Template</a></li>
-					<li><a href="#">HandCrafted Templates</a></li>
-				</ul>
+				
 
 			</div>
 			
