@@ -58,7 +58,7 @@
 	<header id="fh5co-header" role="banner">
 		<div class="container">
 			<div class="header-inner">
-				<h1><a href="index.html">Google-MIT-Abhijit</a></h1>
+				<h1><a href="index.php">Google-MIT-Abhijit</a></h1>
 				<nav role="navigation">
 					<ul>
 						<li><a href="work.html">GSOC</a></li>
@@ -193,7 +193,7 @@
 						<div class="owl-carousel-fullwidth">
 							<div class="item">
 								<div class="testimony-slide active text-center">
-									<img src="images/person1.jpg" alt="user" style=" height: 100px; width: 300px; display: block; margin: 0 auto;">
+									<img src="images/person1.jpg" alt="user" style=" height: 50px; width: 350px; display: block; margin: 0 auto;">
 									<blockquote>
 										<p>Search Blocks enable users to search for specific blocks in the workspace. The X Button helps to clear the search. Advanced Search Filter help seach for keywords among certain types of blocks or even comments.</p>
 									</blockquote>
@@ -249,7 +249,7 @@
 
 					<div class="col-md-3 animate-box">
 						<div class="price-box popular">
-							<h2 class="pricing-plan pricing-plan-offer"><span>Appspot</span></h2>
+							<h2 class="pricing-plan pricing-plan-offer">Appspot</h2>
 							<p>This is the link to the appspot where I hosted my code. If you want to check out how search feature works, you can try this link.</p>
 							<a href="http://abhijit-ai.appspot.com" class="btn btn-select-plan btn-sm">Check it Out!</a>
 						</div>
