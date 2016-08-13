@@ -229,7 +229,7 @@
 					<p>All the materials and where to find them.</p>
 				</div>
 				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading animate-box">
-					<iframe src="https://www.youtube.com/embed/XGSy3_Czz8k"></iframe>
+					<iframe style="width:100%; height:400px;" src="https://www.youtube.com/embed/XGSy3_Czz8k"></iframe>
 				</div>
 			</div>
 			<div class="row">
