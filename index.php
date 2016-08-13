@@ -193,7 +193,7 @@
 						<div class="owl-carousel-fullwidth">
 							<div class="item">
 								<div class="testimony-slide active text-center">
-									<img src="images/person1.jpg" alt="user" style=" height: 100px; width: 300px;">
+									<img src="images/person1.jpg" alt="user" style=" height: 100px; width: 300px; display: block; margin: 0 auto;">
 									<blockquote>
 										<p>Search Blocks enable users to search for specific blocks in the workspace. The X Button helps to clear the search. Advanced Search Filter help seach for keywords among certain types of blocks or even comments.</p>
 									</blockquote>
@@ -201,7 +201,7 @@
 							</div>
 							<div class="item">
 								<div class="testimony-slide active text-center">
-									<img src="images/person2.jpg" alt="user" style=" height: 200px; width: 200px;">
+									<img src="images/person2.jpg" alt="user" style=" height: 200px; width: 200px; display: block; margin: 0 auto;">
 									<blockquote>
 										<p>The work was inspired from a prototype made by Cece Tsui and Prof. Franklyn A. Turbak from Wellesley College. My warm up project during the community bonding period was to rebase cece's code to the latest version of App Inventor.</p>
 									</blockquote>
@@ -209,7 +209,7 @@
 							</div>
 							<div class="item">
 								<div class="testimony-slide active text-center">
-									<img src="images/person3.jpg" alt="user" style=" height: 200px; width: 200px;">
+									<img src="images/person3.jpg" alt="user" style=" height: 200px; width: 200px; display: block; margin: 0 auto;">
 									<blockquote>
 										<p>The project was mentored by Benjamin Xie. He was a grad student at MIT and a great guy. We had weekly meetings to review the progress and he guided me to makse sure that I satisfy the requirements and stick to my schedule.</p>
 									</blockquote>
