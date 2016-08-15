@@ -62,7 +62,6 @@
 				<nav role="navigation">
 					<ul>
 						<li><a href="work.html">GSOC</a></li>
-						<li><a href="services.html"></a></li>
 						<li><a href="pricing.html">Work</a></li>
 						<li><a href="about.html">About</a></li>
 						<li><a href="contact.html">Contact</a></li>
