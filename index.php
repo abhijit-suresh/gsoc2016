@@ -126,7 +126,7 @@
 						<i class="icon-laptop"></i>
 						<div class="desc">
 							<h3>Which Organization?</h3>
-							<p>I was working for MIT Media Lab on MIT App Inventor.MIT App Inventor is an innovative beginner's introduction to programming and app creation.</p>
+							<p>I was working for MIT Media Lab on MIT App Inventor.MIT App Inventor is an innovative, beginner's introduction to programming and app creation.</p>
 						</div>
 					</div>
 				</div>
@@ -260,7 +260,7 @@
 					<div class="col-md-3 animate-box">
 						<div class="price-box">
 							<h2 class="pricing-plan">Proposal</h2>
-							<p> This is the link to the proposal which have information reagrding the features proposed and timeline.</p>
+							<p> This is the link to the proposal which have information regarding the features proposed and timeline.</p>
 							<a href="https://docs.google.com/document/d/1aVFejI7B29xmWRFgpSHT4j7TCSrIEBe3PG5HKK__5Qg/edit" class="btn btn-select-plan btn-sm">Check it Out!</a>
 						</div>
 					</div>
@@ -307,7 +307,7 @@
 
 			<div class="col-md-2 col-md-push-1 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
 				<h3>Commit History</h3>
-				<p>Initially there were several commits.  In order to create the pull request after rebase and facilitate easier merge, all the changes have been combined into single commit. In total, 17 files changed, 1125 insertions(+), 1 deletion(-). I have also created a <a href="https://github.com/mit-cml/appinventor-sources/pull/835">pull request</a></p>
+				<p>Initially there were several commits.  In order to create the pull request after rebase and facilitate easier merge, all the changes have been combined into single commit. In total, 25 files changed, 1116 insertions(+), 4 deletion(-). I have also created a <a href="https://github.com/mit-cml/appinventor-sources/pull/835">pull request</a></p>
 			</div>
 			
 			<div class="col-md-12 fh5co-copyright text-center">
