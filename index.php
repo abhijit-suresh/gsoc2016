@@ -236,7 +236,7 @@
 					<div class="col-md-3 animate-box">
 						<div class="price-box">
 							<h2 class="pricing-plan">Github</h2>
-							<p>This is the link to my Github Fork. I have created a Pull request and is still under review. Since I had to update my fork after a recent revision changes, there are actually fewer commits (Merged all my commits into few commits). Pull request can be found <a href="https://github.com/mit-cml/appinventor-sources/pull/835">here<a> </p>
+							<p>This is the link to my Github Fork. I have created a Pull request and is still under review. Since I had to update my fork after a recent revision changes, there are actually fewer commits (Merged all my commits into few commits). Pull request can be found <a href="https://github.com/mit-cml/appinventor-sources/pull/838">here<a> </p>
 							<a href="https://github.com/abhijit5893/appinventor-sources/commits/master?author=abhijit5893" class="btn btn-select-plan btn-sm">Check it Out!</a>
 						</div>
 					</div>
@@ -307,7 +307,7 @@
 
 			<div class="col-md-2 col-md-push-1 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
 				<h3>Commit History</h3>
-				<p>Initially there were several commits.  In order to create the pull request after rebase and facilitate easier merge, all the changes have been combined into single commit. In total, 25 files changed, 1116 insertions(+), 4 deletion(-). I have also created a <a href="https://github.com/mit-cml/appinventor-sources/pull/835">pull request</a></p>
+				<p>Initially there were several commits.  In order to create the pull request after rebase and facilitate easier merge, all the changes have been combined into single commit. In total, 24 files changed, 1102 insertions(+), 8 deletion(-). I have also created a <a href="https://github.com/mit-cml/appinventor-sources/pull/838">pull request</a></p>
 			</div>
 			
 			<div class="col-md-12 fh5co-copyright text-center">
